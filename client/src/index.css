@@ -1,0 +1,25 @@
+.availableblnc{
+  margin-left: 40%;
+  background-color: pink;
+  height: 220px;
+  width: 240px;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.availableblnc label{
+  font-size: 18px;
+ padding-top: 30px;
+ padding-left: 30px;
+}
+.availableblnc input{
+  padding-left: 60px;
+}
+.formpage{
+  margin-top: 20px;
+}
+.formpage  label{
+  margin-top: 20px;
+}
+.formpage  input{
+  margin-bottom: 20px;
+}
